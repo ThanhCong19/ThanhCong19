@@ -11,7 +11,10 @@
 <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nguyen Thanh Cong&show_icons=true&locale=en" alt="Nguyen Thanh Cong" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyen Thanh Cong&" alt="Nguyen Thanh Cong" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nguyen Thanh Cong&show_icons=true&locale=en&layout=compact" alt="Nguyen Thanh Cong" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nguyen Thanh Cong" alt="Nguyen Thanh Cong" /></a></p>
+<h2>✒️ Recent Posts</h2>
+<ul>
+<li><a target="_blank" href=""></a></li>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ThanhCong19&show_icons=true&locale=en" alt="ThanhCong19" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhCong19&" alt="ThanhCong19" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThanhCong19&show_icons=true&locale=en&layout=compact" alt="ThanhCong19" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThanhCong19" alt="ThanhCong19" /></a></p>
